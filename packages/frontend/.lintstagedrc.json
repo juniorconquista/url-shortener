@@ -1,0 +1,5 @@
+{
+    "ser/**/*.{ts,tsx}": [
+        "eslint --fix"
+    ]
+}
