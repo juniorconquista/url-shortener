@@ -1,5 +1,5 @@
 node_modules
 .vscode
-packages/frontend/coverage
-packages/frontend/public
-packages/frontend/dist
+coverage
+public
+dist
